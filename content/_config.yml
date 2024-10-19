@@ -5,9 +5,9 @@
 
 #######################################################################################
 # Book settings
-title: Learning Data Science # The title of the book. Will be placed in the left navbar.
-author: Sam Lau, Joey Gonzalez, and Deb Nolan # The author of the book
-copyright: "2023" # Copyright year to be placed in the footer
+title: Data Science Foundations # The title of the book. Will be placed in the left navbar.
+author: Abdallah Alsammani # The author of the book
+copyright: "2024" # Copyright year to be placed in the footer
 
 # Never execute notebooks automatically so we don't get unexpected book changes
 # Change from "off" to "force" to check that pages can execute without error
